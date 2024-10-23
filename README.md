@@ -5,14 +5,14 @@ This project aims to analyze a dataset that captures various aspects of individu
 
 Insights and Recommendations are provided in the following areas:
 
-1. Sleep Quality and Physical Activity
-2. Stress Levels and Sleep Duration
-3. Sleep Disorders and Health Indicators
-4. Sleep Patterns Across Different Age Groups
-5. Gender Differences in Sleep Patterns
-6. Sleep and BMI Category
-7. Occupational Analysis
-8. Steps to Improve Sleep Quality
+1. **Sleep Quality and Physical Activity**
+2. **Stress Levels and Sleep Duration**
+3. **Sleep Disorders and Health Indicators**
+4. **Sleep Patterns Across Different Age Groups**
+5. **Gender Differences in Sleep Patterns**
+6. **Sleep and BMI Category**
+7. **Occupational Analysis**
+8. **Steps to Improve Sleep Quality**
 
 The SQL queries used to inspect and clean the data for this analysis can be found here [link].
 
