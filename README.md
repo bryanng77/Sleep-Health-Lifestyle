@@ -15,3 +15,5 @@ The SQL queries used to inspect and clean the data for this analysis can be foun
 The SQL queries regarding various business questions can be found here [link].
 
 An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
+
+# Dataset and Initial Checks
