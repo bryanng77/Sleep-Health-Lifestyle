@@ -5,3 +5,8 @@ This project aims to analyze a dataset that captures various aspects of individu
 
 Insights and Recommendations are provided in the following areas:
 
+- **Category 1:** 
+- **Category 2:** 
+- **Category 3:** 
+- **Category 4:** 
+
