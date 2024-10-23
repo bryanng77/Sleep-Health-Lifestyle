@@ -10,3 +10,8 @@ Insights and Recommendations are provided in the following areas:
 - **Category 3:** 
 - **Category 4:** 
 
+The SQL queries used to inspect and clean the data for this analysis can be found here [link].
+
+The SQL queries regarding various business questions can be found here [link].
+
+An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
