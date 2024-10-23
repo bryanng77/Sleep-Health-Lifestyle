@@ -3,5 +3,5 @@ Maintaining a balance between health, lifestyle, and sleep quality is crucial in
 
 This project aims to analyze a dataset that captures various aspects of individuals’ sleep patterns, lifestyle factors, and health indicators. The dataset includes age, gender, occupation, sleep duration, quality of sleep, physical activity, stress levels, BMI, blood pressure, heart rate, daily steps, and any diagnosed sleep disorders.
 
-# Testing
+Insights and Recommendations are provided in the following areas:
 
