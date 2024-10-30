@@ -24,3 +24,9 @@ An interactive Tableau dashboard used to report and explore sales trends can be 
 The project database consists of a single table: **sleep_health_dataset** with a total row count of 374 records and 13 columns. A description of each table is as follows:
 
 > insert ER diagram
+
+
+
+# Executive Summary
+
+### Overview of findings
